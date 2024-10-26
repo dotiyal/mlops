@@ -47,4 +47,3 @@ def predictions():
     "LoanAmount":120,
     "Married":"Yes"
 }
-'''
